@@ -1,7 +1,7 @@
 ## This is solution to R Programming Assignment 2
-##This function is used to compute the inverse of the special "matrix", and
-##if the inverse has already been calculated (and the matrix has not changed),
-##then the cachesolve retrieves the inverse from the cache.
+## This function is used to compute the inverse of the special "matrix", and
+## if the inverse has already been calculated (and the matrix has not changed),
+## then the cachesolve retrieves the inverse from the cache.
 ##
 ## Usage example:
 ##
